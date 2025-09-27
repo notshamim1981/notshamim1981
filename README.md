@@ -1,4 +1,14 @@
-## Hi there 👋
+
+✨ Hi, I’m @not_shamim19
+
+🎮 I’m interested in Minecraft
+
+🤝 I’m looking to collaborate on Minecraft Server Development
+
+📧 How to reach me : https://www.facebook.com/shamimahmed1981
+
+
+
 
 <!--
 **notshamim1981/notshamim1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
